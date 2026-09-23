@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://berea-bible.github.io/berea/"><strong>Open the reader</strong></a>
+  <a href="https://berea-bible.github.io/reader/"><strong>Open the reader</strong></a>
   &nbsp;·&nbsp;
   <a href="https://berea-bible.github.io">Website</a>
 </p>
@@ -33,5 +33,5 @@
 
 | | |
 |---|---|
-| [`berea`](https://github.com/berea-bible/berea) | The reader app, as static HTML, CSS, and JS served from GitHub Pages |
+| [`reader`](https://github.com/berea-bible/reader) | The reader app, as static HTML, CSS, and JS served from GitHub Pages |
 | [`berea-bible.github.io`](https://github.com/berea-bible/berea-bible.github.io) | This organization's landing page |
